@@ -1,0 +1,160 @@
+{
+  "book_id": "climate_conscious_epistolary_power_corruption",
+  "title": "THE HALCYON INVITATION",
+  "tagline": "A historian of loss is offered a seat at the table that killed her world.",
+  "target_words": 70000,
+  "actual_words": 70079,
+  "status": "SEED",
+  "license": "CC0",
+  "themes": [
+    "The Commodification of Water",
+    "The Seduction of Proximity to Power",
+    "Epistolary Betrayal",
+    "Historical Amnesia as a Political Tool"
+  ],
+  "chapters": [
+    {
+      "ch": 1,
+      "title": "The Vellum Letter",
+      "words": 2919
+    },
+    {
+      "ch": 2,
+      "title": "The Glass Aerie",
+      "words": 2919
+    },
+    {
+      "ch": 3,
+      "title": "The Paleo-Water Gambit",
+      "words": 2919
+    },
+    {
+      "ch": 4,
+      "title": "First Principles",
+      "words": 2919
+    },
+    {
+      "ch": 5,
+      "title": "Mara's Ledger",
+      "words": 2919
+    },
+    {
+      "ch": 6,
+      "title": "The Subcommittee Markup",
+      "words": 2919
+    },
+    {
+      "ch": 7,
+      "title": "A Draft in Confidence",
+      "words": 2919
+    },
+    {
+      "ch": 8,
+      "title": "The Annotated Map",
+      "words": 2919
+    },
+    {
+      "ch": 9,
+      "title": "Loading Dock B",
+      "words": 2919
+    },
+    {
+      "ch": 10,
+      "title": "Sharma's Calculations",
+      "words": 2919
+    },
+    {
+      "ch": 11,
+      "title": "The Leak",
+      "words": 2919
+    },
+    {
+      "ch": 12,
+      "title": "Armitage's Ledger",
+      "words": 2919
+    },
+    {
+      "ch": 13,
+      "title": "The Final Notice",
+      "words": 2919
+    },
+    {
+      "ch": 14,
+      "title": "Correspondence Under Fire",
+      "words": 2919
+    },
+    {
+      "ch": 15,
+      "title": "The Beneficial Use Clause",
+      "words": 2919
+    },
+    {
+      "ch": 16,
+      "title": "A Friend of the Basin",
+      "words": 2919
+    },
+    {
+      "ch": 17,
+      "title": "The Service Entrance",
+      "words": 2919
+    },
+    {
+      "ch": 18,
+      "title": "The Limestone Fortress",
+      "words": 2919
+    },
+    {
+      "ch": 19,
+      "title": "The Cracked Earth",
+      "words": 2919
+    },
+    {
+      "ch": 20,
+      "title": "The Strategic Sacrifice",
+      "words": 2919
+    },
+    {
+      "ch": 21,
+      "title": "The Un-Killing",
+      "words": 2919
+    },
+    {
+      "ch": 22,
+      "title": "The Historian's Testimony",
+      "words": 2919
+    },
+    {
+      "ch": 23,
+      "title": "The Rewritten Compact",
+      "words": 2919
+    },
+    {
+      "ch": 24,
+      "title": "The View from the Aerie",
+      "words": 2923
+    }
+  ],
+  "entry_points": {
+    "story": [
+      "Write a letter from Elara to her sister Mara, explaining her decision after the first meeting, full of half-truths and omitted details.",
+      "Compose Julian Thorne's journal entry from the night before he sent the initial invitation, outlining his calculus on Elara's usefulness and vulnerabilities.",
+      "Draft the 'Friends of the Basin' internal memo that first identified Elara Voss's testimony as a potential asset or threat.",
+      "Write a scene from the perspective of Armitage, the security lead, as he observes Elara's first week embedded with the Halcyon Group, noting her tells and adjustments."
+    ],
+    "technical": [
+      "Build a dynamic, annotated map of the Lazarus Basin and Central Valley water allocations, allowing users to toggle between historical flows, current legal boundaries, and the proposed changes in the Act.",
+      "Create an epistolary narrative engine: a web tool that lets users explore the story through discovered documents (letters, memos, texts, environmental reports) in a non-linear fashion, where the order of discovery changes the perceived narrative."
+    ]
+  },
+  "origin": {
+    "methodology": "Council-Prism Generation",
+    "sasi_score": 8,
+    "council": [
+      "Upton Sinclair",
+      "Chinua Achebe",
+      "Donna Haraway",
+      "John le Carré"
+    ]
+  },
+  "cover_prompt": "A lone female historian, her face etched with the weight of archival grief, stands before a vast, circular table of polished black stone, her hand hesitating over an empty chair, the scene reflected in the dark, obsidian surface, [Detailed Scene & Context: the table is set with crystal decanters filled not with wine but with luminous, blue water, the only light source in a cavernous, derelict council chamber where dried riverbeds are etched into the floor and fragments of decaying letters are frozen under the table's glass surface, hinting at epistolary betrayal], [Artistic Style & Medium: in the atmospheric style of a contemporary Anselm Kiefer, with the textured, layered melancholy of Zaria Forman's glacial landscapes, mixed media with impasto, gold leaf, and embedded archival fragments, evoking buried history], [Composition & Camera: book cover framing, a centered but asymmetrical composition where the historian is small against the monumental table, a dramatic low-angle shot looking up at the intimidating architecture of power, with reflections distorting reality], [Lighting & Color Palette: dramatic chiaroscuro lighting, a single cold shaft of light illuminating the water decanters and her conflicted expression, casting long, accusing shadows, a palette of desiccated umbers, deep Prussian blues, and corrosive golds, with the stark, tempting blue of the commodified water as the only vibrant hue], masterpiece, best quality, ultra detailed, intricate details, professional composition, sharp focus, 8k resolution, flux dev."
+}
