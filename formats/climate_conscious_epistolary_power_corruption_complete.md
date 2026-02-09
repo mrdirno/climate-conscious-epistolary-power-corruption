@@ -1,6 +1,9 @@
+# Chapter 1
+
 ## **CHAPTER 1**
 
-The letter arrived on a Tuesday, smelling of rain and diesel. It was tucked between a glossy circular for solar panel leasing and a final notice from the municipal water authority. I almost shredded it with the rest. My thumb, slick with the grease of a breakfast sausage I’d eaten standing over the sink, smudged the crisp linen envelope. The return address was a single line: *The Halcyon Group, 1200 Constitution Avenue, Washington, D.C.* No name. Just the building, which anyone with a passing interest in power knew was a fortress of polished limestone and bulletproof glass, a monument to private influence.
+The first time I held a Halcyon Invitation, the paper was cool and heavy, like river stone. It left a faint, mineral scent on my fingers—not ink, but something older, dredged from the aquifers they now control. I am writing this on the back of it, in the dry-brush script my mother taught me, the one we used for mapping the old watersheds. They believe they are granting me access, a historian of the Great Thirst to chronicle their new age from within the citadel. They do not understand that I have come to autopsy the feast, to trace every drop in their crystal glasses back to the parched village, the silent well, the world they drowned.
+
 
 I tore it open with a butter knife.
 
@@ -106,6 +109,8 @@ In the distance, the lights of a SunCrop processing plant glowed, an artificial 
 I had until Monday to decide what to bury, and what to try and resurrect.
 
 ---
+# Chapter 2
+
 ## **CHAPTER 2**
 
 The farmhouse smelled of stale coffee and desperation. Mara had the notice spread on the kitchen table, her finger tracing the red-printed numbers as if they were a wound.
@@ -255,6 +260,8 @@ I thought of my grandfather’s maps, the blue lines. I thought of Thorne’s ha
 I hit send.
 
 ---
+# Chapter 3
+
 ## **CHAPTER 3**
 
 The brief for Senator Vance worked. Sharma informed me of this not with praise, but with a new, heavier dossier. “Vance’s legislative director requested a follow-up meeting with our technical team. The emotional framing provided the access. Now we feed them the data. Your work opened the door. Now for Representative Cortez.”
